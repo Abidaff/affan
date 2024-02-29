@@ -1,0 +1,54 @@
+table,  td {
+  border:1px solid black;
+}
+
+
+body {
+background-color: grey;
+color: black;
+text-align: center;
+}
+
+img {
+height: 300px;
+width: 300px;
+}
+
+ol {
+font-size: 45px;
+}
+
+h1 {
+color: lightyellow;
+text-align: center;
+font-family: aerial;
+}
+
+p {
+
+font-family: aerial;
+font-size: 22px;
+color: gold;
+}
+
+table {
+text-align: center;
+}
+
+th {
+font-size:32px;
+color: lightblue;
+}
+
+td {
+color: orange;
+font-size: 28px;
+font-weight: bold;
+}
+
+tr:hover {
+background-color: pink;
+}
+}
+}
+
